@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="apns-http2-core-1.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jar/apns-http2-core-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/aqmd-netty-2.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/aqmd-netty-api-2.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/aqmd-netty-core-2.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/spark-core-2.6.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
