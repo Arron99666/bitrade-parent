@@ -62,7 +62,7 @@
         <dependency>
             <artifactId>spring-data-mongodb</artifactId>
             <groupId>org.springframework.data</groupId>
-            <version>1.10.10.RELEASE</version>
+            <version>3.3.5</version>
             <!--排除autoConfig-->
             <exclusions>
                 <exclusion>
